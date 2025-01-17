@@ -343,8 +343,8 @@ Td_c;Tibia;Skinning;DP
 Td_d;Tibia;Defleshing;DC
 Td_e;Tibia;Disarticulation;DS
 Td_f;Tibia;Defleshing;DC
-Td_f p;Tibia;Defleshing;DC
-Td_f s;Tibia;Disarticulation;DS
+Td_fp;Tibia;Defleshing;DC
+Td_fs;Tibia;Disarticulation;DS
 Td_g;Tibia;Disarticulation;DS
 Tp_a;Tibia;? defleshing &/or disarticulation;DS + DC
 Tp_b;Tibia;Defleshing;DC

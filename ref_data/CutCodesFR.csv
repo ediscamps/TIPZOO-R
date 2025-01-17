@@ -343,8 +343,8 @@ Td_c;Tibia;Dépouillement;DP
 Td_d;Tibia;Décharnement;DC
 Td_e;Tibia;Désarticulation;DS
 Td_f;Tibia;Décharnement;DC
-Td_f p;Tibia;Décharnement;DC
-Td_f s;Tibia;Désarticulation;DS
+Td_fp;Tibia;Décharnement;DC
+Td_fs;Tibia;Désarticulation;DS
 Td_g;Tibia;Désarticulation;DS
 Tp_a;Tibia;? décharnement &/ou désarticulation;DS + DC
 Tp_b;Tibia;Décharnement;DC
